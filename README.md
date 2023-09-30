@@ -1,10 +1,6 @@
-<<<<<<< HEAD
-I don't know what i am doing 
-=======
-#headings 
+## heading of something 
 
-##second headings 
+#Dont even know 
 
-*i am just learning virtual machine and linux in virtual box 
-*i dont have space in my computer 
->>>>>>> 703c060 (my first commit)
+*something 
+*somewhere 
